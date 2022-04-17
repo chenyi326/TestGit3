@@ -15,5 +15,6 @@ public class GitTest {
         System.out.println("hello git66");
         System.out.println("hello git55");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
